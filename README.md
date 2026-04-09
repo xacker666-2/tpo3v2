@@ -1,5 +1,3 @@
-<img width="1283" height="704" alt="image" src="https://github.com/user-attachments/assets/0e01e628-e140-4475-ab23-5bc7e5b9dd59" />
-
 # Отчёт по ТПО ЛАБ3. Игра «Stalcraft X»
 
 ## 1. Введение
